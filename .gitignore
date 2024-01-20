@@ -1,0 +1,10 @@
+/*
+!README.md
+!.gitignore
+!/BepInEx
+!/BepInEx/config
+!/BepInEx/core
+!/BepInEx/plugins
+/BepInEx/cache/*
+
+
