@@ -2,7 +2,6 @@
 !README.md
 !.gitignore
 !/BepInEx
-/BepInEx/*
 !/BepInEx/config
 !/BepInEx/core
 !/BepInEx/plugins
